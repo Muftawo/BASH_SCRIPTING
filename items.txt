@@ -1,0 +1,31 @@
+Redirection.sh
+Var.sh
+arguments.sh
+arguments2.sh
+both.txt
+errorboth.txt
+errors.txt
+items.txt
+math.sh
+mathVariable.sh
+noError.text
+output.txt
+pipe.sh
+try.py
+333333333333333333333333333333333333
+
+total 20
+-rwxrwxrwx 1 mufti mufti 1070 May 21 09:04 Redirection.sh
+-rwxrwxrwx 1 mufti mufti 1079 May 20 07:48 Var.sh
+-rwxrwxrwx 1 mufti mufti  198 May 20 20:15 arguments.sh
+-rwxrwxrwx 1 mufti mufti  130 May 20 20:37 arguments2.sh
+-rwxrwxrwx 1 mufti mufti   49 May 21 07:57 both.txt
+-rwxrwxrwx 1 mufti mufti   49 May 21 07:57 errorboth.txt
+-rwxrwxrwx 1 mufti mufti   64 May 21 07:57 errors.txt
+-rwxrwxrwx 1 mufti mufti  194 May 21 09:04 items.txt
+-rwxrwxrwx 1 mufti mufti  800 May 20 19:43 math.sh
+-rwxrwxrwx 1 mufti mufti  259 May 20 19:59 mathVariable.sh
+-rwxrwxrwx 1 mufti mufti  604 May 21 07:57 noError.text
+-rwxrwxrwx 1 mufti mufti    0 May 21 07:57 output.txt
+-rwxrwxrwx 1 mufti mufti   12 May 21 08:01 pipe.sh
+-rwxrwxrwx 1 mufti mufti  285 May 20 12:46 try.py
